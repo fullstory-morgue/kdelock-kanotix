@@ -1,0 +1,19 @@
+kdelock-kanotix (0.5.2) unstable; urgency=low
+
+  * overhaul packaging.
+  * fix lintian errors.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 23 Aug 2005 16:01:18 +0200
+
+kdelock-kanotix (0.5-1) unstable; urgency=low
+
+  * Fix packaging, fork for Kanotix compatibility.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 10 Feb 2005 13:44:26 +0100
+
+kdelock-knoppix (0.5-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Klaus Knopper <knopper@knopper.net>  Fri, 28 Jun 2002 14:08:14 +0200
+

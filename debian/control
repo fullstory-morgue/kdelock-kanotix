@@ -1,0 +1,15 @@
+Source: kdelock-kanotix
+Section: kde
+Priority: optional
+Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends-Indep: cdbs (>= 0.4.23-1.1), build-essential, debhelper (>= 4.1.0)
+Standards-Version: 3.6.2
+
+Package: kdelock-kanotix
+Architecture: all
+Provides: kdelock-knoppix
+Replaces: kdelock-knoppix
+Conflicts: kdelock-knoppix
+Depends: ${shlibs:Depends}
+Description: Replaces the kdesktop_lock with non-locking version
+ only useful for live CDs.
