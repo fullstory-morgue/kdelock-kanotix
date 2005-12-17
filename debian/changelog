@@ -1,3 +1,12 @@
+kdelock-kanotix (0.5.3) unstable; urgency=low
+
+  * remove cdbs auto-update feature.
+  * remove virtual knoppix packages.
+  * clean up debian/control.
+  * bump compat level.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 17 Dec 2005 02:40:45 +0100
+
 kdelock-kanotix (0.5.2) unstable; urgency=low
 
   * overhaul packaging.
