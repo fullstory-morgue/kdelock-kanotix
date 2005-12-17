@@ -1,8 +1,9 @@
 kdelock-kanotix (0.5.4) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * orphan package.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 17 Dec 2005 02:41:37 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 17 Dec 2005 02:42:27 +0100
 
 kdelock-kanotix (0.5.3) unstable; urgency=low
 
